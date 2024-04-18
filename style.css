@@ -484,6 +484,7 @@ body{
     margin-left: 20px;
     font-weight: 500;
     cursor: pointer;
+    padding-top: 20px;
 }
 .song:hover{
     background-color: #7979791f;
