@@ -448,6 +448,7 @@ body{
     overflow-y: auto;
     overflow-x: hidden;
     background-color: #12121260;
+    padding-top: 10px;
 }
 .song_list::-webkit-scrollbar{
     display: none;
@@ -480,11 +481,12 @@ body{
     display: flex;
     justify-content: start;
     align-items: center;
-    gap: 10px;
+    gap: 20px;
     margin-left: 20px;
     font-weight: 500;
     cursor: pointer;
-    padding-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 .song:hover{
     background-color: #7979791f;
