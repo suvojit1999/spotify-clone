@@ -348,7 +348,9 @@ body{
 }
 .card > img{
     width: 150px;
+    height: 150px;
 }
+
 #vanish{
     position: absolute;
     right: 10px;

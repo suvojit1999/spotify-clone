@@ -41,7 +41,7 @@ async function getAlbums() {  //just to show the album cards and add event listn
                 <img src="/songs/${folder}/cover.jpg" alt="">
                 <img src="vanishing play.svg" alt="" id="vanish">
                 <span style="font-weight: bold;">${meta_data.title}</span>
-                <span style="font-size: 12px;>${meta_data.Artist}</span>
+                <span style="font-size: 12px;">${meta_data.Artist}</span>
             </div>`
 
         let side_library = document.querySelector(".display_playlist")
