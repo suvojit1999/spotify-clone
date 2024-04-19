@@ -414,6 +414,7 @@ body{
     /* height: 100px; */
     margin-left: 20px;
     border-radius: 10px;
+    box-shadow: 3px 3px 10px 5px  #3a1b8560;
 }
 .playlisttext{
     display: flex;
